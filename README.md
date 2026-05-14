@@ -1,6 +1,6 @@
 # NITI - Legal Reasoning System for Lawyers
 
-NITI is a prompt-based AI reasoning system built for licensed lawyers practising in India. It performs structured risk analysis on contracts and legal documents, conducts doctrinal legal research, and surfaces issues with counter-views and confidence ratings without crossing into legal advice or drafting.
+NITI is a prompt-based AI reasoning system built for licensed lawyers practising in India. It is an upgrade of my existing system SAMAI. It performs structured risk analysis on contracts and legal documents, conducts doctrinal legal research, and surfaces issues with counter-views and confidence ratings without crossing into legal advice or drafting.
 
 Current version: **1.7.2** | May 2026
 
