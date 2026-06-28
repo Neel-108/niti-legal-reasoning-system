@@ -95,5 +95,5 @@ The lawyer remains fully responsible for all professional decisions and client a
 
 Prompt-based system. Not commercially available. Built for professional legal use in India with secondary capability on US law (Delaware corporate, SEC/SEBI securities).
 
-To request access or discuss deployment: swapnilpanchal465@gmail.com 
+To request access or discuss deployment: swapnilpanchal0215@gmail.com 
 
